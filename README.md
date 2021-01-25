@@ -14,7 +14,6 @@ Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 * Bohdan Bodnar - [b-bodnar](https://github.com/b-bodnar)
 
 ## Acknowledgments
-...
 
 ## Contributing
 Please, follow [Contributing](CONTRIBUTING.md) page.
